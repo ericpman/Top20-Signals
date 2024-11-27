@@ -34,8 +34,8 @@ To start data processing, enter "GO" in cell L1, which minimizes lag by preventi
 ### Step 3: Generate Long and Short Candidates
 
 Upon activation:
-- **Column M** lists the top 20 stocks for potential longs (positive performance).
-- **Column O** lists the top 20 stocks for potential shorts (negative performance).
+- **Column M** lists the top 20 stocks for potential longs (positive performance) for each signal.
+- **Column O** lists the top 20 stocks for potential shorts (negative performance) for each signal.
 
 This provides two initial lists for further filtering and sorting.
 
